@@ -498,12 +498,7 @@ npm test
 
 NexusShell is released under the MIT License. See [LICENSE](LICENSE) for details.
 
-## 🤝 Support
 
-- **Documentation**: [https://nexusshell.dev/docs](https://nexusshell.dev/docs)
-- **Issues**: [GitHub Issues](https://github.com/nexusshell/nexusshell/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/nexusshell/nexusshell/discussions)
-- **Discord**: [NexusShell Community](https://discord.gg/nexusshell)
 
 ## 🙏 Acknowledgments
 
